@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "appId": "stillstamp",
+  "locale": "ko",
+  "revision": "operations-staging-20260907-2",
+  "messages": {
+    "common.ok": {
+      "message": "확인",
+      "placeholders": {}
+    },
+    "common.retry": {
+      "message": "다시 시도",
+      "placeholders": {}
+    },
+    "operations.active.body": {
+      "message": "서비스를 이용할 수 있습니다.",
+      "placeholders": {}
+    },
+    "operations.active.title": {
+      "message": "이용 가능",
+      "placeholders": {}
+    },
+    "operations.maintenance.body": {
+      "message": "예정된 점검을 진행 중입니다. 잠시 후 다시 시도해 주세요.",
+      "placeholders": {}
+    },
+    "operations.maintenance.title": {
+      "message": "서비스 점검 중",
+      "placeholders": {}
+    },
+    "operations.paused.body": {
+      "message": "서비스가 일시 중지되었습니다. 잠시 후 다시 시도해 주세요.",
+      "placeholders": {}
+    },
+    "operations.paused.title": {
+      "message": "일시적으로 이용할 수 없음",
+      "placeholders": {}
+    },
+    "operations.sunset.body": {
+      "message": "서비스가 종료되었습니다. 이용 가능한 방법은 고객지원에서 확인해 주세요.",
+      "placeholders": {}
+    },
+    "operations.sunset.title": {
+      "message": "서비스 종료",
+      "placeholders": {}
+    },
+    "operations.update.body": {
+      "message": "계속하려면 {version} 이상으로 업데이트해 주세요.",
+      "placeholders": {
+        "version": "string"
+      }
+    },
+    "operations.update.title": {
+      "message": "업데이트 필요",
+      "placeholders": {}
+    },
+    "policies.privacy.label": {
+      "message": "개인정보처리방침",
+      "placeholders": {}
+    },
+    "policies.support.label": {
+      "message": "고객지원",
+      "placeholders": {}
+    },
+    "policies.terms.label": {
+      "message": "이용약관",
+      "placeholders": {}
+    },
+    "products.remove_ads.description": {
+      "message": "이 앱의 비보상형 광고를 제거합니다.",
+      "placeholders": {}
+    },
+    "products.remove_ads.name": {
+      "message": "광고 제거",
+      "placeholders": {}
+    },
+    "operations.update.action": {
+      "message": "업데이트",
+      "placeholders": {}
+    },
+    "operations.update.recommended.title": {
+      "message": "새 버전이 있어요",
+      "placeholders": {}
+    },
+    "operations.update.recommended.body": {
+      "message": "{version} 버전을 사용할 수 있어요.",
+      "placeholders": {
+        "version": "string"
+      }
+    },
+    "operations.support.action": {
+      "message": "고객 지원",
+      "placeholders": {}
+    },
+    "operations.dismiss.action": {
+      "message": "닫기",
+      "placeholders": {}
+    },
+    "operations.retry.action": {
+      "message": "다시 확인",
+      "placeholders": {}
+    },
+    "operations.link.failed": {
+      "message": "링크를 열 수 없어요. 다시 시도해 주세요. 문의: help@akra.kr",
+      "placeholders": {}
+    },
+    "operations.library.action": {
+      "message": "저장한 엽서 보기",
+      "placeholders": {}
+    },
+    "operations.offline.body": {
+      "message": "저장한 엽서는 기기에 보관되어 있어요. 문의: help@akra.kr",
+      "placeholders": {}
+    }
+  }
+}

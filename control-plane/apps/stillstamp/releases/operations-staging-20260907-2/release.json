@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "appId": "stillstamp",
+  "channel": "staging",
+  "revision": "operations-staging-20260907-2",
+  "sequence": 2,
+  "previousRevision": "operations-staging-20260907-1",
+  "publishedAt": "2026-09-07T14:50:47Z",
+  "notBefore": "2026-09-07T14:50:47Z",
+  "expiresAt": "2026-09-08T14:50:47Z",
+  "artifacts": {
+    "locales/en.json": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/locales/en.json",
+      "sha256": "dd79da91e35ba3438b2bcce399304d794401dcefdffa220c1cb213078643685b",
+      "bytes": 3123,
+      "contentType": "application/json"
+    },
+    "locales/ko.json": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/locales/ko.json",
+      "sha256": "7ec30e3cfdc7192aab6caa9a43ccacc00f4995dbb9ae03d15f83278e8593a4bb",
+      "bytes": 3340,
+      "contentType": "application/json"
+    },
+    "policies/privacy.en.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/policies/privacy.en.md",
+      "sha256": "24fec8cbbea9ece347973c6391bd6e9629deecdd71d5e9abf969e516956c4087",
+      "bytes": 8922,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/privacy.ko.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/policies/privacy.ko.md",
+      "sha256": "8414e35db43aa97e8f1884e321eac99e0784935b593415053a88e36b4b5f1919",
+      "bytes": 9949,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/support.en.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/policies/support.en.md",
+      "sha256": "753a35e47aca26161e93828f2fe3673948b2c7c749330851c7b7ea6982959bac",
+      "bytes": 1598,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/support.ko.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/policies/support.ko.md",
+      "sha256": "74b06ee9da98487a93ffebf7be56e05384b3c58ac671191d9550dd5fe219baf3",
+      "bytes": 1789,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/terms.en.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/policies/terms.en.md",
+      "sha256": "1a481e0cbbf98648e3a2fb695011015f388aab984de3c34a9cee85a3715fafcf",
+      "bytes": 5327,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/terms.ko.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/policies/terms.ko.md",
+      "sha256": "d3418794a5cf9444167308fa384c6dd4a94306609df75d97903d5599b8f021e9",
+      "bytes": 6287,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policy-manifest.json": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/policy-manifest.json",
+      "sha256": "6ffd940562fdb01fe3a3e4bb789bf97095f6826a6447bae05198d26db297fc44",
+      "bytes": 2457,
+      "contentType": "application/json"
+    },
+    "product-catalog.json": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/product-catalog.json",
+      "sha256": "bca1388b672fa27cfc04cacddc47651720f6cd354252b4563b810163be542c8f",
+      "bytes": 486,
+      "contentType": "application/json"
+    },
+    "runtime-config.json": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-staging-20260907-2/runtime-config.json",
+      "sha256": "a339b25321d7f2e787e37dc2ac90ad9142aa6a45370e604900902fbc0d77196c",
+      "bytes": 625,
+      "contentType": "application/json"
+    }
+  },
+  "signature": {
+    "algorithm": "Ed25519",
+    "canonicalization": "RFC8785",
+    "keyId": "stillstamp-operations-2026",
+    "value": "IWbji9EgMxFohxs-MFYD39eGbCWyxCUoSEzFYPplLQP-AoOC7iPDgwXy_qX59_z21Fo9Y6z2UOd9N7c-HerCDw"
+  },
+  "sourceCommit": "cbb7bf9b2cfcdbbc1359b3b724e195bbb4682685"
+}
