@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "appId": "stillstamp",
+  "locale": "en",
+  "revision": "operations-20260907-2",
+  "messages": {
+    "common.ok": {
+      "message": "OK",
+      "placeholders": {}
+    },
+    "common.retry": {
+      "message": "Retry",
+      "placeholders": {}
+    },
+    "operations.active.body": {
+      "message": "The service is available.",
+      "placeholders": {}
+    },
+    "operations.active.title": {
+      "message": "Available",
+      "placeholders": {}
+    },
+    "operations.maintenance.body": {
+      "message": "We are performing scheduled maintenance. Please try again later.",
+      "placeholders": {}
+    },
+    "operations.maintenance.title": {
+      "message": "Under maintenance",
+      "placeholders": {}
+    },
+    "operations.paused.body": {
+      "message": "This service is temporarily paused. Please try again later.",
+      "placeholders": {}
+    },
+    "operations.paused.title": {
+      "message": "Temporarily unavailable",
+      "placeholders": {}
+    },
+    "operations.sunset.body": {
+      "message": "This service has ended. Visit support for available options.",
+      "placeholders": {}
+    },
+    "operations.sunset.title": {
+      "message": "Service ended",
+      "placeholders": {}
+    },
+    "operations.update.body": {
+      "message": "Update to version {version} or later to continue.",
+      "placeholders": {
+        "version": "string"
+      }
+    },
+    "operations.update.title": {
+      "message": "Update required",
+      "placeholders": {}
+    },
+    "policies.privacy.label": {
+      "message": "Privacy Policy",
+      "placeholders": {}
+    },
+    "policies.support.label": {
+      "message": "Support",
+      "placeholders": {}
+    },
+    "policies.terms.label": {
+      "message": "Terms of Use",
+      "placeholders": {}
+    },
+    "products.remove_ads.description": {
+      "message": "Remove non-rewarded advertising from this app.",
+      "placeholders": {}
+    },
+    "products.remove_ads.name": {
+      "message": "Remove ads",
+      "placeholders": {}
+    },
+    "operations.update.action": {
+      "message": "Update",
+      "placeholders": {}
+    },
+    "operations.update.recommended.title": {
+      "message": "An update is available",
+      "placeholders": {}
+    },
+    "operations.update.recommended.body": {
+      "message": "Version {version} is available.",
+      "placeholders": {
+        "version": "string"
+      }
+    },
+    "operations.support.action": {
+      "message": "Contact support",
+      "placeholders": {}
+    },
+    "operations.dismiss.action": {
+      "message": "Close",
+      "placeholders": {}
+    },
+    "operations.retry.action": {
+      "message": "Check again",
+      "placeholders": {}
+    },
+    "operations.link.failed": {
+      "message": "Unable to open the link. Please try again. Support: help@akra.kr",
+      "placeholders": {}
+    },
+    "operations.library.action": {
+      "message": "View saved postcards",
+      "placeholders": {}
+    },
+    "operations.offline.body": {
+      "message": "Your saved postcards remain on this device. Support: help@akra.kr",
+      "placeholders": {}
+    }
+  }
+}

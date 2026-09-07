@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "appId": "stillstamp",
+  "channel": "production",
+  "revision": "operations-20260907-3",
+  "sequence": 2,
+  "previousRevision": "operations-20260907-2",
+  "publishedAt": "2026-09-07T14:43:52Z",
+  "notBefore": "2026-09-07T14:43:52Z",
+  "expiresAt": "2026-09-14T14:43:52Z",
+  "artifacts": {
+    "locales/en.json": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/locales/en.json",
+      "sha256": "976b9aaacf0b2c2272fce06e3e9a41fb8ab3c33bbd882153256ae839e8dc294a",
+      "bytes": 3115,
+      "contentType": "application/json"
+    },
+    "locales/ko.json": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/locales/ko.json",
+      "sha256": "f7d0cd710d9fde16f3eeae675a04e7abf5faa123d2e40526b67f9006e06139f1",
+      "bytes": 3332,
+      "contentType": "application/json"
+    },
+    "policies/privacy.en.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/policies/privacy.en.md",
+      "sha256": "6f4ff406818233922b9cebae94599007c1ec59776f96da54b788265b5f9aa263",
+      "bytes": 7998,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/privacy.ko.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/policies/privacy.ko.md",
+      "sha256": "d41d33d6647d4f767a72aed3abab0cc5b1b1e7570dee875c07409fe867fbaedd",
+      "bytes": 8964,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/support.en.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/policies/support.en.md",
+      "sha256": "c92abd08923f7895310fd19ec679d6a6f10481010da0657cca8fe2fe64585e0a",
+      "bytes": 1240,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/support.ko.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/policies/support.ko.md",
+      "sha256": "859ba10fb9af885f49a4bbbbf41f7b1c55ea79da86a61c2c9456e1399875558b",
+      "bytes": 1353,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/terms.en.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/policies/terms.en.md",
+      "sha256": "21843e9e52ddecbbb1f78ab4d3eea34d8afeec936b4739bb042def2df28c8a36",
+      "bytes": 4570,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/terms.ko.md": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/policies/terms.ko.md",
+      "sha256": "5cd392f0c30f53da971c5ab3c5be7800d325a74afa6d5e4a067e54ce03ddf6cc",
+      "bytes": 5258,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policy-manifest.json": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/policy-manifest.json",
+      "sha256": "6db8146cbd34136c45b3c3508a111aad94ec964fb5cb21ac12271d28e268c2e6",
+      "bytes": 2401,
+      "contentType": "application/json"
+    },
+    "product-catalog.json": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/product-catalog.json",
+      "sha256": "3fd749b8631315714015baece27d478cbb8d745341c262203f1a294ccfbbcb16",
+      "bytes": 478,
+      "contentType": "application/json"
+    },
+    "runtime-config.json": {
+      "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/operations-20260907-3/runtime-config.json",
+      "sha256": "20fac5c222f7c93285d360e5efab363ffa9cb7c33849a6acf4d450126810ba37",
+      "bytes": 620,
+      "contentType": "application/json"
+    }
+  },
+  "signature": {
+    "algorithm": "Ed25519",
+    "canonicalization": "RFC8785",
+    "keyId": "stillstamp-operations-2026",
+    "value": "I8dmgxr9bXSXDh_Ze4O0HKveou-hF4y0Oy2E6A2JOmmm2JNRHVuVxM6HJ2t0MfLFUXkJ0wPjkbzMmUwZOg7HBA"
+  }
+}
