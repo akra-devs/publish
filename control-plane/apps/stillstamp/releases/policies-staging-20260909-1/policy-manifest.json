@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "appId": "stillstamp",
+  "revision": "policies-staging-20260909-1",
+  "documents": [
+    {
+      "type": "privacy",
+      "version": "1.2.1",
+      "effectiveAt": "2026-09-09T00:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": "1.2.0",
+      "locales": {
+        "en": {
+          "path": "policies/privacy.en.md",
+          "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/policies-staging-20260909-1/policies/privacy.en.md",
+          "sha256": "b5e508f652b41fb3a3110741bf842750d895b1a5ce0924098012d65396367973"
+        },
+        "ko": {
+          "path": "policies/privacy.ko.md",
+          "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/policies-staging-20260909-1/policies/privacy.ko.md",
+          "sha256": "cbbc528128d77cf8947b06abf2d3de9212d50be62637d7bc14617a2f3e705a72"
+        }
+      }
+    },
+    {
+      "type": "terms",
+      "version": "1.1.0",
+      "effectiveAt": "2026-09-07T00:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": null,
+      "locales": {
+        "en": {
+          "path": "policies/terms.en.md",
+          "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/policies-staging-20260909-1/policies/terms.en.md",
+          "sha256": "1a481e0cbbf98648e3a2fb695011015f388aab984de3c34a9cee85a3715fafcf"
+        },
+        "ko": {
+          "path": "policies/terms.ko.md",
+          "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/policies-staging-20260909-1/policies/terms.ko.md",
+          "sha256": "d3418794a5cf9444167308fa384c6dd4a94306609df75d97903d5599b8f021e9"
+        }
+      }
+    },
+    {
+      "type": "support",
+      "version": "1.1.1",
+      "effectiveAt": "2026-09-09T00:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": "1.1.0",
+      "locales": {
+        "en": {
+          "path": "policies/support.en.md",
+          "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/policies-staging-20260909-1/policies/support.en.md",
+          "sha256": "98b5abeaa9a744cffbf3284de3f2d44dd7189cee3b04c436abad1913ac5ef2e7"
+        },
+        "ko": {
+          "path": "policies/support.ko.md",
+          "url": "https://akra.kr/publish/control-plane/apps/stillstamp/releases/policies-staging-20260909-1/policies/support.ko.md",
+          "sha256": "a1273509856faab08de290d13fd5d2c7ad6e798fef1806023200d046cf48701f"
+        }
+      }
+    }
+  ]
+}
