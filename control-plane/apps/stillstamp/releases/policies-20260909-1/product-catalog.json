@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "appId": "stillstamp",
+  "revision": "policies-20260909-1",
+  "catalogRevision": "bundled-1",
+  "products": [
+    {
+      "key": "remove_ads",
+      "template": "remove_ads",
+      "type": "non_consumable",
+      "enabled": false,
+      "displayNameKey": "products.remove_ads.name",
+      "descriptionKey": "products.remove_ads.description",
+      "entitlements": [
+        "ads_removed"
+      ],
+      "storeIds": {},
+      "grants": []
+    }
+  ]
+}

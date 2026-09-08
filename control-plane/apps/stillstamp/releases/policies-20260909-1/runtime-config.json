@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "appId": "stillstamp",
+  "revision": "policies-20260909-1",
+  "channel": "production",
+  "operations": {
+    "mode": "active",
+    "window": null,
+    "titleKey": "operations.active.title",
+    "bodyKey": "operations.active.body",
+    "readOnlyCapabilities": [],
+    "supportUrl": "https://github.com/akra-devs",
+    "versionPolicy": {
+      "minimum": {},
+      "recommended": {},
+      "storeUrls": {},
+      "recommendedDisplayPolicy": "oncePerVersion"
+    },
+    "notices": [],
+    "migration": null
+  },
+  "features": {
+    "content.remote_enabled": false,
+    "ads.enabled": true
+  }
+}
